@@ -1,0 +1,16 @@
+[Application]
+WindowPlacement=0 1 -32000 -32000 -1 -1 79 143 1104 668
+[Editor1]
+FileName=.\Text2.l
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -8 -31 26 26 905 313
+WindowOrder1=2
+Position001=0 1
+Cursor001=0 1 0 1
+SyntaxColouring=1
+TargetSyntaxColouring=3
+[Output]
+WindowPlacement1=2 3 -1 -1 -8 -31 130 130 1009 417
+WindowOrder1=1
+Position1=0 1
+Cursor1=0 1 0 1

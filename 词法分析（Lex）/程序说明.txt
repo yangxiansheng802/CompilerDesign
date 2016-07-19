@@ -1,0 +1,13 @@
+Text2工程文件夹下：
+
+Text2/MyLex.pgp：	Parser Generator工程文件
+Text2/Text2.dsw：	VC++6.0工程文件
+Text2/Text2.l：		Parser Generator的Lex程序源码文件
+Text2/Text2.h：		Parser Generator生成的C头文件
+Text2/Text2.c：		Parser Generator生成的C源码文件
+Text2/example.txt：	C程序运行输入文件
+
+使用说明：
+1.Parser Generator打开MyLex.pgp工程文件之后打开Text2.l，并编译执行，就会生成Text2.h和Text2.c源文件。
+2.VC++6.0，需要按照老师给的PPT教程（见附件PPT）配置好lex相关类库。
+3.VC++6.0打开Text2.dsw工程文件，并编译执行，要保证example.txt在工程目录下，即可运行成功。

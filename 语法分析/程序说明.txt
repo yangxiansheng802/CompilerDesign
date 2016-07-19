@@ -1,0 +1,6 @@
+LL(1)/LL(1).cpp：	LL(1)实现源程序
+LL(1)/fin.txt：		程序运行输入文件
+LL(1)/fout.txt：	程序运行输出文件
+
+使用说明：
+Code::Blocks13.12下，打开 LL(1).cpp文件，编译运行即可。
